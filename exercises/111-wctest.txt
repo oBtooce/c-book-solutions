@@ -1,0 +1,15 @@
+Exercise 1-11: Testing the Word Count Program
+
+There are many ways to test the word count program.  Some of these are as follows:
+1) Inputting nothing
+2) Inputting enough values such that the integer cap is overflowed (easiest to do this for character count)
+3) Inputting characters that are not recognized by the standard ASCII character set
+	-> this could mean Arabic, Cyrillic, kanji (and any other Asian alphabet), etc.
+4) Inputting other types of whitespace, e.g. carriage returnsExercise 1-11: Testing the Word Count Program
+
+There are many ways to test the word count program.  Some of these are as follows:
+1) Inputting nothing
+2) Inputting enough values such that the integer cap is overflowed (easiest to do this for character count)
+3) Inputting characters that are not recognized by the standard ASCII character set
+	-> this could mean Arabic, Cyrillic, kanji (and any other Asian alphabet), etc.
+4) Inputting other types of whitespace, e.g. carriage returns
